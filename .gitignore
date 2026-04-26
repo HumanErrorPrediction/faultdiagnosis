@@ -1,0 +1,12 @@
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pt
+wandb/
+output/
+.condor_logs/
+.wandbkey
+combined_data.json
+.venv/
+.hfkey
